@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "WebFetch(domain:my-vibe-project-one.vercel.app)",
+      "Bash(gh deployment:*)"
+    ]
+  }
+}
